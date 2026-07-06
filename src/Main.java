@@ -14,6 +14,7 @@ public class Main {
         // Set animation speed
         t.speed(5);
 
+
         // July Theme: Drawing a bright, glowing Sun to represent the hot summer weather of July
         t.penColor(Color.YELLOW);
         t.width(2);
